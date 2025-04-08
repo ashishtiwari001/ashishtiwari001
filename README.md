@@ -1,15 +1,26 @@
+![Banner](https://your-image-link.com/banner.png) <!-- Add your own banner image link here -->
 
-🎯 Aspiring Data Analyst with a passion for turning raw data into actionable insights.
+# 👋 Hi, I'm Ashish Tiwari
 
-## 🛠️ Skills
-- **Power BI** – Interactive dashboards & data visualization  
-- **Excel** – Data cleaning, pivot tables, formulas & reporting  
-- **PostgreSQL** – Writing efficient SQL queries for data analysis  
-- **Python** – Basic data handling with Pandas & visualization libraries  
+🎯 **Aspiring Data Analyst** | Passionate about transforming data into meaningful insights  
 
-## 📈 Currently Sharpening
-Improving my skills by working on small projects and solving real-world data problems.
+<img align="right" src="https://your-image-link.com/avatar.png" width="200"/> <!-- Add your profile picture if you want -->
 
-## 📂 Projects
-- **SQL Retail Analysis** – Sales & customer data insights using PostgreSQL  
-- *(More projects coming soon...)*
+## 🚀 Skills & Tools
+- 📊 **Power BI** – Dashboards, Reports, Data Visualization  
+- 📈 **Excel** – Data Cleaning, Pivot Tables, Advanced Formulas  
+- 🐘 **PostgreSQL** – SQL Queries, Joins, Aggregations, Subqueries  
+- 🐍 **Python** – Pandas, Matplotlib, Data Handling  
+
+---
+
+## 📚 Projects
+- **🛒 SQL Retail Analysis** – Exploring sales & customer trends using SQL  
+- *(More data projects coming soon...)*  
+
+---
+
+## 🌱 Currently Improving
+Sharpening my data skills through mini-projects, query practice, and dashboard building.
+
+---
