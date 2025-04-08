@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @ashishtiwari001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ashishtiwari001/ashishtiwari001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Analyst with a passion for turning raw data into actionable insights.
+
+## 🛠️ Skills
+- **Power BI** – Interactive dashboards & data visualization  
+- **Excel** – Data cleaning, pivot tables, formulas & reporting  
+- **PostgreSQL** – Writing efficient SQL queries for data analysis  
+- **Python** – Basic data handling with Pandas & visualization libraries  
+
+## 📈 Currently Sharpening
+Improving my skills by working on small projects and solving real-world data problems.
+
+## 📂 Projects
+- **SQL Retail Analysis** – Sales & customer data insights using PostgreSQL  
+- *(More projects coming soon...)*
