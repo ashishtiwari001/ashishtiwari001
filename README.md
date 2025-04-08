@@ -1,4 +1,4 @@
-![Banner](https://your-image-link.com/banner.png) <!-- Add your own banner image link here -->
+
 
 # 👋 Hi, I'm Ashish Tiwari
 
